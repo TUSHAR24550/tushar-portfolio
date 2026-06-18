@@ -26,7 +26,7 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 | **Animation**       | Framer Motion                            |
 | **Contact Form**    | EmailJS                                  |
 | **Version Control** | Git & GitHub                             |
-| **Deployment**      | Render                         |
+| **Deployment**      |                         |
 
 ---
 
